@@ -22,7 +22,7 @@
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img width="160px" src="https://avatars.githubusercontent.com/u/53892427?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/46439995?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/96245651?v=4" /> |
 |                  [@osohyun0224](https://github.com/osohyun0224)                  |                   [@iammiori](https://github.com/iammiori)                   |                   [@soyoonJ](https://github.com/soyoonJ)                   |
-|                          [개인 블로그](https://medium.com/@osohyun0224)                           |                           [개인 블로그]()                        |                          [개인 블로그](https://soyoondaily.com)                        |
+|                          [개인 블로그](https://medium.com/@osohyun0224)                           |                           [개인 블로그](https://techblog.iammiori.com/)                        |                          [개인 블로그](https://soyoondaily.com)                        |
 
 |                                      최기환                                      |                                      황태영                                      | 
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | 
