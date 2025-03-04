@@ -6,3 +6,4 @@
 ## 2월
 
 1. React 폴더구조 <a href="https://velog.io/@hty0525/%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0" target="_blank">블로그</a>
+2. 2월 회고 <a href="https://velog.io/@hty0525/2%EC%9B%94-%ED%9A%8C%EA%B3%A0" target="_blank">블로그</a>
