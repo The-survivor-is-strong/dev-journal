@@ -15,7 +15,7 @@
 ## 3월
 |링크드인|블로그|
 |-----|------|
-|||
+||[[시나브로 자바스크립트] Date, Intl.DateTimeFormat으로 날짜 다루기](https://soyoondaily.tistory.com/entry/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Date-IntlDateTimeFormat%EB%A1%9C-%EB%82%A0%EC%A7%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0)|
 |||
 
 
