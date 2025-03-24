@@ -14,4 +14,4 @@
 
 - [프로토타입 A to Z](https://velog.io/@koreanthuglife/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dwith.-JS)
 - [Suspense와 ErrorBoundary는 한끗 차이다](https://velog.io/@koreanthuglife/Suspense%EC%99%80-ErrorBoundary%EB%8A%94-%ED%95%9C%EB%81%97-%EC%B0%A8%EC%9D%B4%EB%8B%A4)
-
+- [React의 createPortal 뜯어보기](https://velog.io/@koreanthuglife/React%EC%9D%98-createPortal-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0)
