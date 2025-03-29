@@ -10,4 +10,6 @@
 ## 3월
 
 - [리팩터링 2판 #1](https://velamint.tistory.com/52)
-- [리팩터링 2판] 학습내용정리 2(진행예정)
+- [리팩터링 2판 #2](https://velamint.tistory.com/53)
+
+## 4월
