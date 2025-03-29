@@ -16,11 +16,11 @@
 |링크드인|블로그|
 |-----|------|
 ||[[시나브로 자바스크립트] Date, Intl.DateTimeFormat으로 날짜 다루기](https://soyoondaily.tistory.com/entry/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Date-IntlDateTimeFormat%EB%A1%9C-%EB%82%A0%EC%A7%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0)|
-||[[시나브로 자바스크립트] Date, Intl.DateTimeFormat으로 날짜 다루기](https://soyoondaily.tistory.com/entry/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Date-IntlDateTimeFormat%EB%A1%9C-%EB%82%A0%EC%A7%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0)|
 ||[[함수형 코딩] 액션, 계산, 데이터란?](https://soyoondaily.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%EC%BD%94%EB%94%A9-%EC%95%A1%EC%85%98-%EA%B3%84%EC%82%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)|
 ||[[시나브로 자바스크립트] Monorepo란?](https://soyoondaily.tistory.com/entry/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Monorepo%EB%9E%80)|
 ||[[함수형 코딩] 더 나은 액션 만들기](https://soyoondaily.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%EC%BD%94%EB%94%A9-%EB%8D%94-%EB%82%98%EC%9D%80-%EC%95%A1%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 ||[[시나브로 자바스크립트] History API와 SPA 라우팅](https://soyoondaily.tistory.com/entry/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-History-API%EC%99%80-SPA-%EB%9D%BC%EC%9A%B0%ED%8C%85)|
+||[[함수형 코딩] 데이터 불변성을 위한 카피온라이트, 방어적 복사](https://soyoondaily.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%EC%BD%94%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B9%B4%ED%94%BC%EC%98%A8%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EC%96%B4%EC%A0%81-%EB%B3%B5%EC%82%AC)|
 
 
 ## 4월
