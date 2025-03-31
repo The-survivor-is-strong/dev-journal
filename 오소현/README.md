@@ -25,3 +25,8 @@
 시나브로 자바스크립트 2주차 강의를 들으면서 쇼핑몰을 구현하고, 데이터 구조를 통해 접근 속도 개선에 대해 공부해보고 이를 정리해보았습니댱
 
 [데이터 구조로 성능 개선하기 (feat. 배열 vs 객체)](https://www.ogarden-dev.com/blog/fe/sinabrojs-2week)
+
+## 3월
+
+[Hydration 에 대한 모든 것](https://www.ogarden-dev.com/blog/fe/hydration)
+[모노레포에 대해 알아보자!](https://www.ogarden-dev.com/blog/fe/monorepo)
