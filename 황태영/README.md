@@ -7,3 +7,8 @@
 
 1. React 폴더구조 <a href="https://velog.io/@hty0525/%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0" target="_blank">블로그</a>
 2. 2월 회고 <a href="https://velog.io/@hty0525/2%EC%9B%94-%ED%9A%8C%EA%B3%A0" target="_blank">블로그</a>
+
+## 3월
+
+1. JavaScript + React 디자인 패턴을 읽고 <a href="https://velog.io/@hty0525/JavaScript-React-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%9D%BD%EA%B3%A0" target="_blank">블로그</a>
+2. 학습메이트 회고 <a href="https://velog.io/@hty0525/%ED%95%99%EC%8A%B5%EB%A9%94%EC%9D%B4%ED%8A%B8-%ED%9A%8C%EA%B3%A0" target="_blank">블로그</a>
